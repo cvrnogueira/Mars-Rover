@@ -1,0 +1,14 @@
+package exercicioParaEntregar;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class MassRoverTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
